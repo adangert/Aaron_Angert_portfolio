@@ -18,11 +18,13 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI, Robotics, computer vision, and motion planning
 
 interests:
 - Artificial Intelligence
+- Autonomous Vehicles
 - Motion Planning
+- Computer Vision
 #- Computational Linguistics
 #- Information Retrieval
 
@@ -45,7 +47,7 @@ courses:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:adangert@tamu.edu' # For a direct email link, use "mailto:test@example.org".
+    link: '#about/contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/adangert
@@ -65,7 +67,7 @@ social:
   
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "adangert@tamu.edu"
+# email: "adangert@tamu.edu"
 ---
 
 Aaron Angert is an artificial intelligence/Robotics Engineer. His research interests include Autonomous vehicles, SLAM, motion planning, and machine learning.
