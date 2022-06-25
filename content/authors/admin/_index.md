@@ -20,14 +20,14 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-# - Artificial Intelligence
-# - Motion Planning
+interests:
+- Artificial Intelligence
+- Motion Planning
 #- Computational Linguistics
 #- Information Retrieval
 
 #education:
-#  courses:
+courses:
  - course: PhD in Artificial Intelligence
    institution: Texas A&M University
    year: 2022
