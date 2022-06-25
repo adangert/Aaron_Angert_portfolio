@@ -21,8 +21,8 @@ status:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
-- Artificial Intelligence
-- Motion Planning
+# - Artificial Intelligence
+# - Motion Planning
 #- Computational Linguistics
 #- Information Retrieval
 
