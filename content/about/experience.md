@@ -32,7 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Openstack Cloud development
+        * Openstack Cloud development and Devops
+        * Interal tools development
+        * Cloud infrastructure management
 
 
   # - title: Professor of Semiconductor Physics

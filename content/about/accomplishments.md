@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards and Accomplishments'
 subtitle:
 
 # Date format
@@ -23,6 +23,24 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - title: '1st Place in the SAE Autodrive challenge'
+    organization: 'Texas A&M University'
+    organization_url: 'https://engineering.tamu.edu/news/2021/08/csce-texas-am-autodrive-challenge-team-wins-first-overall-during-final-competition.html'
+    organization_logo: SAE
+    location: 'Texas'
+    date_start: '2019-08-01'
+    date_end: '2022-08-01'
+    description: |2-
+        * Developed a new Autonomous vehicle on a Chevy Bolt
+        * Behaviors included:
+        *   - Traffic light detection
+        *   - Stop sign navigation
+        *   - Pedestrian detection
+        *   - Dynamic obstacle avoidance
+        *   - Global route planning
+        *   - Control of the vehicle's steering via CANBUS
+
+
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'

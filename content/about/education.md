@@ -30,9 +30,11 @@ experience:
     date_start: '2017-08-01'
     date_end: '2022-12-01'
     description: |2-
-        * Focus on Motion planning and Autonomous vehicles
+        * Focus on local Motion planning and behavior control
         * Competed in the SAE Autodrive challenge and Ansys Indy Autonomous challenge
-         
+        * Managed a team on the development of a new Autonomous vehicle
+
+
 
   # - title: BEng Electronic Engineering
   #   company: University X
