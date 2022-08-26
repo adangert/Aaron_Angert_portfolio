@@ -24,9 +24,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - title: '1st Place in the SAE Autodrive challenge'
+    # organization_logo: TAM-LogoBox
     organization: 'SAE'
     organization_url: 'https://engineering.tamu.edu/news/2021/08/csce-texas-am-autodrive-challenge-team-wins-first-overall-during-final-competition.html'
-    organization_logo: SAE
     location: 'Texas'
     date_start: '2019-08-01'
     date_end: '2022-08-01'
@@ -43,7 +43,6 @@ item:
   - title: '3rd Place in the SAE Autodrive challenge'
     organization: 'Indy'
     organization_url: 'https://engineering.tamu.edu/news/2021/08/csce-texas-am-autodrive-challenge-team-wins-first-overall-during-final-competition.html'
-    organization_logo: Indy
     location: 'Texas'
     date_start: '2019-08-01'
     date_end: '2022-08-01'
