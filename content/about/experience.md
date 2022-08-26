@@ -39,7 +39,7 @@ experience:
   - title: Team Captain
     company: SAE Autodrive challenge
     company_url: 'http://autodrive.tamu.edu/'
-    company_logo: SAE
+    company_logo: sae
     location: Austin, TX
     date_start: '2014-01-01'
     date_end: '2017-06-01'
