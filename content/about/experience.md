@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: IBM
     company_url: ''
-    company_logo: org-gc
+    company_logo: IBM
     location: Austin, TX
     date_start: '2014-01-01'
     date_end: '2017-06-01'

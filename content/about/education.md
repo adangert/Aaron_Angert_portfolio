@@ -27,10 +27,12 @@ experience:
     company_url: ''
     company_logo: TAM-LogoBox
     location: Texas
-    date_start: '2017-01-01'
-    date_end: '2022-01-01'
+    date_start: '2017-08-01'
+    date_end: '2022-12-01'
     description: |2-
-        * Dissertation on motion planning
+        * Focus on Motion planning and Autonomous vehicles
+        * Competed in the SAE Autodrive challenge and Ansys Indy Autonomous challenge
+         
 
   # - title: BEng Electronic Engineering
   #   company: University X
