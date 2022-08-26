@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - title: '1st Place in the SAE Autodrive challenge'
+  - title: '1st Place, SAE Autodrive I Dynamic challenge'
     # organization_logo: TAM-LogoBox
     organization: 'SAE'
     organization_url: 'https://engineering.tamu.edu/news/2021/08/csce-texas-am-autodrive-challenge-team-wins-first-overall-during-final-competition.html'
@@ -31,14 +31,6 @@ item:
     date_start: '2019-08-01'
     date_end: '2022-08-01'
     description: |2-
-        * Developed a new Autonomous vehicle on a Chevy Bolt
-        * Behaviors included:
-        *   - Traffic light detection
-        *   - Stop sign navigation
-        *   - Pedestrian detection
-        *   - Dynamic obstacle avoidance
-        *   - Global route planning
-        *   - Control of the vehicle's steering via CANBUS
 
   - title: '3rd Place in the SAE Autodrive challenge'
     organization: 'Indy'
@@ -46,15 +38,9 @@ item:
     location: 'Texas'
     date_start: '2019-08-01'
     date_end: '2022-08-01'
-    description: |2-
-        * Developed a new Autonomous vehicle on a Chevy Bolt
-        * Behaviors included:
-        *   - Traffic light detection
-        *   - Stop sign navigation
-        *   - Pedestrian detection
-        *   - Dynamic obstacle avoidance
-        *   - Global route planning
-        *   - Control of the vehicle's steering via CANBUS
+    description: Developed software for motion planning for a simulated race vehicle on the
+      Indianapolis motor speedway within the Ansys SCADE software suite, using
+      a Python and DDS communication stack for networked races.
 
 
   - certificate_url: https://www.coursera.org/account/accomplishments/verify/WV8PYW5CRHPF
@@ -63,7 +49,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Stanford online - Machine Learning
     url: ''
   # - certificate_url: https://www.edx.org
   #   date_end: ''

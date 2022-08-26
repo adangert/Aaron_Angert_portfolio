@@ -36,6 +36,23 @@ experience:
         * Interal tools development
         * Cloud infrastructure management
 
+  - title: Team Captain
+    company: SAE Autodrive challenge
+    company_url: ''
+    company_logo: SAE
+    location: Austin, TX
+    date_start: '2014-01-01'
+    date_end: '2017-06-01'
+    description: |2-
+        * Developed an Autonomous vehicle on a Chevy Bolt
+        * Behaviors included:
+        *   - Traffic light detection
+        *   - Stop sign navigation
+        *   - Pedestrian detection
+        *   - Dynamic obstacle avoidance
+        *   - Global route planning
+        *   - Control of the vehicle's steering via CANBUS
+
 
   # - title: Professor of Semiconductor Physics
   #   company: University X
