@@ -25,12 +25,10 @@ interests:
 - Autonomous Vehicles
 - Motion Planning
 - Computer Vision
-#- Computational Linguistics
-#- Information Retrieval
 
 #education:
 courses:
- - course: PhD in Artificial Intelligence
+ - course: MS in Autonomous Vehicles and AI
    institution: Texas A&M University
    year: 2022
 #  - course: MEng in Artificial Intelligence
