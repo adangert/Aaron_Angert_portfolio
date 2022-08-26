@@ -24,9 +24,26 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - title: '1st Place in the SAE Autodrive challenge'
-    organization: 'Texas A&M University'
+    organization: 'SAE'
     organization_url: 'https://engineering.tamu.edu/news/2021/08/csce-texas-am-autodrive-challenge-team-wins-first-overall-during-final-competition.html'
-    organization_logo: SAE
+    # organization_logo: SAE
+    location: 'Texas'
+    date_start: '2019-08-01'
+    date_end: '2022-08-01'
+    description: |2-
+        * Developed a new Autonomous vehicle on a Chevy Bolt
+        * Behaviors included:
+        *   - Traffic light detection
+        *   - Stop sign navigation
+        *   - Pedestrian detection
+        *   - Dynamic obstacle avoidance
+        *   - Global route planning
+        *   - Control of the vehicle's steering via CANBUS
+
+  - title: '3rd Place in the SAE Autodrive challenge'
+    organization: 'Indy'
+    organization_url: 'https://engineering.tamu.edu/news/2021/08/csce-texas-am-autodrive-challenge-team-wins-first-overall-during-final-competition.html'
+    organization_logo: Indy
     location: 'Texas'
     date_start: '2019-08-01'
     date_end: '2022-08-01'
@@ -41,30 +58,30 @@ item:
         *   - Control of the vehicle's steering via CANBUS
 
 
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/WV8PYW5CRHPF
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2016-01-25'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+  # - certificate_url: https://www.edx.org
+  #   date_end: ''
+  #   date_start: '2021-01-01'
+  #   description: Formulated informed blockchain models, hypotheses, and use cases.
+  #   organization: edX
+  #   organization_url: https://www.edx.org
+  #   title: Blockchain Fundamentals
+  #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  # - certificate_url: https://www.datacamp.com
+  #   date_end: '2020-12-21'
+  #   date_start: '2020-07-01'
+  #   description: ''
+  #   organization: DataCamp
+  #   organization_url: https://www.datacamp.com
+  #   title: 'Object-Oriented Programming in R'
+  #   url: ''
 
 design:
   columns: '1'
