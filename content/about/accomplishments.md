@@ -31,7 +31,7 @@ item:
     date_start: '2019-08-01'
     date_end: '2022-08-01'
     description: |2-
-
+    
   - title: '3rd Place in the SAE Autodrive challenge'
     organization: 'Indy'
     organization_url: 'https://engineering.tamu.edu/news/2021/08/csce-texas-am-autodrive-challenge-team-wins-first-overall-during-final-competition.html'
