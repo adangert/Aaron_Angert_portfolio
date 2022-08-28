@@ -20,11 +20,11 @@ role: ''
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include AI, Robotics, computer vision, and motion planning
 
-interests:
-- Artificial Intelligence
-- Autonomous Vehicles
-- Motion Planning
-- Computer Vision
+# interests:
+# - Artificial Intelligence
+# - Autonomous Vehicles
+# - Motion Planning
+# - Computer Vision
 
 #education:
 courses:
@@ -49,8 +49,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/adangert
-  - icon: cv
-    icon_pack: ai
+  - icon: file
+    icon_pack: fas
     link: uploads/resume.pdf
   # - icon: instagram
   #   icon_pack: fab
@@ -70,5 +70,6 @@ social:
 
 Hi there, I am an artificial intelligence/Robotics Engineer. I have strong communication and leadership skills, my interests include Artificial intelligence, Autonomous vehicles, motion planning, and machine learning.
 
+<!-- {{< icon name="download" pack="fas" >}}  -->
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+For a compact version, check out my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}} as a PDF. 
