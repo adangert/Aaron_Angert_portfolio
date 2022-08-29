@@ -30,7 +30,7 @@ experience:
     date_start: '2019-01-01'
     date_end: '2022-06-01'
     description: |2-
-        * Lead the 12th unmanned team to developed an autonomous Chevy Bolt
+        * Lead the 12th unmanned team to develop an autonomous Chevy Bolt which competed in the SAE Autodrive challenge at the MCity proving grounds
         * Behaviors included Traffic light detection, dynamic obstacle avoidance, motion planning, lane following, and simulation of the vehicle
         * Our team won in first place for the dynamic portion of the challenge, and second overall
         

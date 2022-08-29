@@ -25,11 +25,4 @@ feature:
   # - name: Machine learning
   # - name: SIFT
   # - name: Motion planning
-
-
-  # # Example using an emoji as an icon.
-  # - icon: '😄'
-  #   icon_pack: emoji
-  #   name: Emojiness
-  #   description: 100%
 ---
