@@ -42,8 +42,6 @@ experience:
     date_end: '2022-12-01'
     description: |2-
 
-
-
   # - title: BEng Electronic Engineering
   #   company: University X
   #   company_url: ''
