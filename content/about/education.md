@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MS Graduate - Computer Science & Engineering
+  - title: Masters of Engineering in Computer Science
     company: Texas A&M University
     company_url: 'https://www.tamu.edu/'
     company_logo: TAM-LogoBox
@@ -34,7 +34,7 @@ experience:
         * Competed in the SAE Autodrive challenge and Ansys Indy Autonomous challenge
         * Managed a team on the development of a new Autonomous vehicle
 
-  - title: BS Graduate - Computer Science
+  - title: Bachelor of Science in Computer Science
     company: University of Texas at Austin
     company_url: 'https://www.utexas.edu/'
     company_logo: university_of_texas_at_austin

@@ -23,21 +23,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Team Captain
-    company: SAE Autodrive challenge
+    company: SAE Autodrive Challenge™️ I/II
     company_url: 'http://autodrive.tamu.edu/'
     company_logo: sae
     location: Austin, TX
     date_start: '2019-01-01'
     date_end: '2022-06-01'
     description: |2-
-        * Developed an Autonomous vehicle on a Chevy Bolt
-        * Behaviors included:
-        *   - Traffic light detection
-        *   - Stop sign navigation
-        *   - Pedestrian detection
-        *   - Dynamic obstacle avoidance
-        *   - Global route planning
-        *   - Control of the vehicle's steering via CANBUS
+        * Lead the 12th unmanned team to developed an autonomous Chevy Bolt
+        * Behaviors included Traffic light detection, dynamic obstacle avoidance, motion planning, lane following, and simulation of the vehicle
+        * Our team won in first place for the dynamic portion of the challenge, and second overall
         
   - title: Software Engineer
     company: IBM
