@@ -22,6 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Team Captain
+    company: SAE Autodrive challenge
+    company_url: 'http://autodrive.tamu.edu/'
+    company_logo: sae
+    location: Austin, TX
+    date_start: '2019-01-01'
+    date_end: '2022-06-01'
+    description: |2-
+        * Developed an Autonomous vehicle on a Chevy Bolt
+        * Behaviors included:
+        *   - Traffic light detection
+        *   - Stop sign navigation
+        *   - Pedestrian detection
+        *   - Dynamic obstacle avoidance
+        *   - Global route planning
+        *   - Control of the vehicle's steering via CANBUS
+        
   - title: Software Engineer
     company: IBM
     company_url: ''
@@ -36,22 +53,7 @@ experience:
         * Interal tools development
         * Cloud infrastructure management
 
-  - title: Team Captain
-    company: SAE Autodrive challenge
-    company_url: 'http://autodrive.tamu.edu/'
-    company_logo: sae
-    location: Austin, TX
-    date_start: '2014-01-01'
-    date_end: '2017-06-01'
-    description: |2-
-        * Developed an Autonomous vehicle on a Chevy Bolt
-        * Behaviors included:
-        *   - Traffic light detection
-        *   - Stop sign navigation
-        *   - Pedestrian detection
-        *   - Dynamic obstacle avoidance
-        *   - Global route planning
-        *   - Control of the vehicle's steering via CANBUS
+
 
 
   # - title: Professor of Semiconductor Physics
