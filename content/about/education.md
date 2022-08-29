@@ -30,10 +30,9 @@ experience:
     date_start: '2017-08-01'
     date_end: '2022-12-01'
     description: |2-
-        * Focus on local Motion planning and behavior control
+        * Focus on local motion planning and behavior control
         * Competed in the SAE Autodrive challenge and Ansys Indy Autonomous challenge
-        * Managed a team on the development of a new Autonomous vehicle
-
+        * Courses include: Analysis of algorithms, Machine learning, Convex optimization, Intelligent systems and robotics, Linear models, Linear multivariable systems
   - title: Bachelor of Science in Computer Science
     company: University of Texas at Austin
     company_url: 'https://www.utexas.edu/'
