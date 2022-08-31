@@ -51,7 +51,7 @@ social:
     link: https://twitter.com/adangert
   - icon: file
     icon_pack: fas
-    link: uploads/resume.pdf
+    link: uploads/Aaron_Angert_resume.pdf
   # - icon: instagram
   #   icon_pack: fab
   #   link: https://instagram.com/geocushen
@@ -72,4 +72,4 @@ Hi there, I am an artificial intelligence/Robotics Engineer. I have strong commu
 
 <!-- {{< icon name="download" pack="fas" >}}  -->
 
-For a compact version, check out my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}} as a PDF. 
+For a compact version, check out my {{< staticref "uploads/Aaron_Angert_resume.pdf" "newtab" >}}resume{{< /staticref >}} as a PDF. 

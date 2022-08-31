@@ -1,27 +1,32 @@
 ---
 widget: featurette
 headless: true  # This file represents a page section.
-weight: 35
+weight: 32
 # ... Put Your Section Options Here (title etc.) ...
-title: Languages and Platforms
+title: Robotics and AI
 # Showcase personal skills or business features.
 # Add/remove as many `feature` blocks below as you like.
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - name: Python
+  - name: Machine Learning
     # description: 90%
-  - name: C++
+  - name: Computer vision
     # description: 90%
-  - name: Java
-  - name: C#
-  - name: VBA
-  - name: Matlab
-  - name: Simulink
-  - name: Unreal
-  - name: Unity
-  - name: ROS
-  - name: SUMO
-  - name: SIL testing
+  - name: Motion Planning
+  - name: EKF
+  - name: UKF
+  - name: YOLO
+  - name: CNN
+  - name: SIFT
+  - name: RRT
+  - name: PRM
+  - name: A*
+  - name: IMU
+  - name: Lidar
+  - name: CAN bus
+  - name: ESP8266
+  # - name: SUMO
+  # - name: Docker
   # - name: Machine learning
   # - name: SIFT
   # - name: Motion planning

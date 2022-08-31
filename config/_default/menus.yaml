@@ -14,7 +14,7 @@ main:
     url: competition/
     weight: 30
   - name: Resume
-    url: uploads/resume.pdf
+    url: uploads/Aaron_Angert_resume.pdf
     weight: 40
   - name: Hobbies
     url: hobbies
