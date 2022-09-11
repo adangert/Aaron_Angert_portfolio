@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Hi, there! I'm **Aaron**, a Robotics/AI Engineer!
+Welcome to my website!
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 I've participated in a number of Autonomous vehicle [competitions](/competition), you can check out my [experience](/about/), some of the [hobbies](/hobbies/) I've worked on, or if you'd like to get in touch, feel free to [contact me](/about/#contact)!

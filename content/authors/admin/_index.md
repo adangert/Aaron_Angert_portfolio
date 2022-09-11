@@ -68,7 +68,7 @@ social:
 # email: "adangert@tamu.edu"
 ---
 
-Hi there, I am an artificial intelligence/Robotics Engineer. I have strong communication and leadership skills, my interests include Artificial intelligence, Autonomous vehicles, motion planning, and machine learning.
+I am passionate about artificial intelligence and robotics and have strong communication and leadership skills. My interests include autonomous vehicles, motion planning, and machine learning.
 
 <!-- {{< icon name="download" pack="fas" >}}  -->
 
