@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Autonomous Vehicle Simulation Engineer
+    company: General Motors
+    company_url: 'http://autodrive.tamu.edu/'
+    company_logo: General_Motors
+    location: Milford, Mi
+    date_start: '2023-01-01'
+    description: |2-
+        * Lead development of the rear virtual bumper simulation for ADAS program validation
+        * Drove enhancements in code and repository management, automated processees, and led cross-functional team initiatives
+        * Built and maintained internal tooling for simulation (HTML documentation generator, ARXML parser, Vehicle dynamics parser)
+
+
+
   - title: Team Captain
     company: SAE Autodrive Challenge™️ I/II
     company_url: 'http://autodrive.tamu.edu/'
