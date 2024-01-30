@@ -12,22 +12,24 @@ weight: 20
 title: Experience
 subtitle:
 
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Robotics Software Engineer
+    company: Anduril
+    company_url: 'https://www.anduril.com/'
+    company_logo: anduril
+    location: Costa Mesa, CA
+    date_start: '2024-01-01'
+
+
   - title: Autonomous Vehicle Simulation Engineer
     company: General Motors
-    company_url: 'http://autodrive.tamu.edu/'
+    company_url: 'https://www.gm.com/'
     company_logo: General_Motors
     location: Milford, Mi
     date_start: '2023-01-01'
+    date_end: '2023-12-01'
     description: |2-
         * Lead development of the rear virtual bumper simulation for ADAS program validation
         * Drove enhancements in code and repository management, automated processees, and led cross-functional team initiatives
@@ -61,17 +63,6 @@ experience:
         * Interal tools development
         * Cloud infrastructure management
 
-
-
-
-  # - title: Professor of Semiconductor Physics
-  #   company: University X
-  #   company_url: ''
-  #   company_logo: org-x
-  #   location: California
-  #   date_start: '2016-01-01'
-  #   date_end: '2020-12-31'
-  #   description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '1'

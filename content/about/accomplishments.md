@@ -18,29 +18,21 @@ subtitle:
 date_format: Jan 2006
 sort_ascending: true
 sort_by: 'title'
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 item:
   - title: '1st Place, SAE Autodrive I Dynamic challenge'
-    # organization_logo: TAM-LogoBox
     organization: 'SAE'
     organization_url: 'https://engineering.tamu.edu/news/2021/08/csce-texas-am-autodrive-challenge-team-wins-first-overall-during-final-competition.html'
     location: 'Texas'
     date_start: '2021-06-01'
-    # date_end: '2022-08-01'
 
   - title: '2nd place, SAE Autodrive Challenge II Simulation'
     organization: 'SAE'
-    # organization_url: 'https://engineering.tamu.edu/news/2021/08/csce-texas-am-autodrive-challenge-team-wins-first-overall-during-final-competition.html'
     location: 'Texas'
     date_start: '2022-06-01'
 
   - title: '2nd place, SAE Autodrive Challenge II Overall'
     organization: 'SAE'
-    # organization_url: 'https://engineering.tamu.edu/news/2021/08/csce-texas-am-autodrive-challenge-team-wins-first-overall-during-final-competition.html'
     location: 'Texas'
     date_start: '2022-06-01'
 
@@ -63,22 +55,7 @@ item:
     organization_url: https://www.coursera.org
     title: Stanford online - Machine Learning
     url: ''
-  # - certificate_url: https://www.edx.org
-  #   date_end: ''
-  #   date_start: '2021-01-01'
-  #   description: Formulated informed blockchain models, hypotheses, and use cases.
-  #   organization: edX
-  #   organization_url: https://www.edx.org
-  #   title: Blockchain Fundamentals
-  #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  # - certificate_url: https://www.datacamp.com
-  #   date_end: '2020-12-21'
-  #   date_start: '2020-07-01'
-  #   description: ''
-  #   organization: DataCamp
-  #   organization_url: https://www.datacamp.com
-  #   title: 'Object-Oriented Programming in R'
-  #   url: ''
+
 
 design:
   columns: '1'

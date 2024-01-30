@@ -68,8 +68,7 @@ social:
 # email: "adangert@tamu.edu"
 ---
 
-I am passionate about artificial intelligence, robotics and simulation, and leadership. My interests include autonomous vehicles, motion planning, and machine learning.
+I am passionate about artificial intelligence, robotics and simulation, and leadership. My interests include Autonomous Vehicles, Robotics, Motion planning, and Machine learning.
 
-<!-- {{< icon name="download" pack="fas" >}}  -->
 
 For a compact version, check out my {{< staticref "uploads/Aaron_Angert_resume.pdf" "newtab" >}}resume{{< /staticref >}} as a PDF. 

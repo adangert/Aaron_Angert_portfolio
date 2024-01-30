@@ -4,9 +4,6 @@ headless: true  # This file represents a page section.
 weight: 35
 # ... Put Your Section Options Here (title etc.) ...
 title: Languages and Platforms
-# Showcase personal skills or business features.
-# Add/remove as many `feature` blocks below as you like.
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - name: Python
     # description: 90%

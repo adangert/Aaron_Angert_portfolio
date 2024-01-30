@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Welcome to my website!
+Robotics Software Engineer
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-You can check out my [experience](/about/), Autonomous vehicle [competitions](/competition), and some of the [hobbies](/hobbies/) I've worked on, or if you'd like to get in touch, feel free to [contact me](/about/#contact)!
+Please feel free to take a look at my [experience](/about/) and [competitions](/competition) I've been apart of, if you'd like to get in touch, feel free to [contact me](/about/#contact)!
